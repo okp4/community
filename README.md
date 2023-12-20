@@ -12,9 +12,9 @@ Here are the different Discussion categories:
 - 💬 [General Discussions](https://github.com/okp4/community/discussions/categories/general-discussions): Conversations related to Product features areas that don’t have their own explicit category. Ask questions, share your experiences, and meet fellow OKP4 druids to help you get the best out of OKP4.
 - 🆕 [New to OKP4 ecosystem](https://github.com/okp4/community/discussions/categories/new-to-okp4-ecosystem): Conversations related to getting started on using OKP4. For builders entering in the OKP4 community !
 - 🧑‍💻 [Programming Help](https://github.com/okp4/community/discussions/categories/programming-help): Conversations related to programming languages, open source, and software development. Please review the pinned post for this category’s guidelines prior to posting.
-- 💰 [Economics Discussions](https://github.com/okp4/community/discussions/categories/economics-discussions): Topics and themes related to Economics with the OKP4 Protocol
-- 🔖 [Governance Proposals](https://github.com/okp4/community/discussions/categories/governance-proposals): All Discussions related to governance proposals will live in this discussion category.
-- 💾 [Validators](https://github.com/okp4/community/discussions/categories/validators) : Discussions related to operating a validator node  
+- 🏦 [Economics Discussions](https://github.com/okp4/community/discussions/categories/economics-discussions): Topics and themes related to Economics with the OKP4 Protocol
+- 🏛️ [Governance Proposals](https://github.com/okp4/community/discussions/categories/governance-proposals): All Discussions related to governance proposals will live in this discussion category.
+- 🔨 [Validators](https://github.com/okp4/community/discussions/categories/validators) : Discussions related to operating a validator node  
 
 - 📦 OKP4 Product categories:
   - 🤖 [AI Factory](https://github.com/okp4/community/discussions/categories/ai-factory)
