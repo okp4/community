@@ -1,8 +1,7 @@
 
 # Welcome to the OKP4 Community
 
-OKP4 Community is built to support all OKP4 users on their educational journey, via Discussions. It is also a forum dedicated to discuss the governance proposals of the [OKP4 protocol](https://okp4.network).
-It is a resource hub, learning portal, and inspiration station, all in one.
+[OKP4 Community](https://github.com/okp4/community) is a platform designed to assist all [OKP4](https://okp4.network) users on their educational journey. Here, through our [Discussions](https://github.com/okp4/community/discussions), you'll find a vibrant hub of _learning_, _support_, and _inspiration_.
 
 ## Organisation
 
@@ -30,7 +29,7 @@ New druid in town? Here are some resources you can check first:
 - [Documentation](https://docs.okp4.network)
 - [OKP4 Blog](https://blog.okp4.network)
 
-## Recommandation
+## Community Guidelines
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
