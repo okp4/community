@@ -1,7 +1,7 @@
 
 # Welcome to the OKP4 Community
 
-[OKP4 Community](https://github.com/okp4/community) is a platform designed to assist all [OKP4](https://okp4.network) users on their educational journey. Here, through our [Discussions](https://github.com/okp4/community/discussions), you'll find a vibrant hub of _learning_, _support_, and _inspiration_.
+[OKP4 Community](https://github.com/okp4/community/discussions) is a platform designed to assist all [OKP4](https://okp4.network) users on their educational journey. Here, through our [Discussions](https://github.com/okp4/community/discussions), you'll find a vibrant hub of _learning_, _support_, and _inspiration_.
 
 ## Organisation
 
